@@ -1,0 +1,32 @@
+.banner {    
+    text-align: center;
+    padding: 7vw 7vw 2vw 7vw;
+}
+
+.banner__chamada {
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.chamada-vagas {
+    background-color: var(--vermelho-fundo);
+    border: 1px solid var(--vermelho-fundo);
+    border-radius: 16px;
+    padding: 0.4em 0;
+    width: 15%; 
+    margin: auto;
+}
+
+.banner__titulo {
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--preto);
+    padding: 1em;
+}
+
+.banner__texto {
+    font-size: 20px;
+    padding: 0 20vw 4vw 20vw;
+}
+
+
